@@ -101,7 +101,7 @@ Make sure to:
 Here are some screenshots from the project:
 
 ### 🏠 Homepage
-![Homepage](./Screenshots/home.png)
+![Homepage](./Screenshots/homepage.png)
 
 ### 🛒 Featured Product Section
 ![Featured Products](./Screenshots/featured.png)
