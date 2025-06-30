@@ -101,22 +101,22 @@ Make sure to:
 Here are some screenshots from the project:
 
 ### 🏠 Homepage
-![Homepage](./screenshots/Screenshot%20(15).png)
+![Homepage](./screenshots/home.png)
 
 ### 🛒 Featured Product Section
-![Featured Products](./screenshots/Screenshot%20(16).png)
+![Featured Products](./screenshots/featured.png)
 
 ### 👤 Registration Page
-![Create Account](./screenshots/Screenshot%20(17).png)
+![Registration](./screenshots/register.png)
 
 ### 🛍️ Shopping Cart
-![Shopping Cart](./screenshots/Screenshot%20(18).png)
+![Cart](./screenshots/cart.png)
 
 ### 💳 Checkout Page
-![Checkout](./screenshots/Screenshot%20(19).png)
+![Checkout](./screenshots/checkout.png)
 
 ### 📊 Admin Dashboard
-![Admin Dashboard](./screenshots/Screenshot%20(20).png)
+![Dashboard](./screenshots/dashboard.png)
 
 ---
 
